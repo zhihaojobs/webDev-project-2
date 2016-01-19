@@ -9,11 +9,5 @@ Array.prototype.cs142filter = function(clientData, isOK) {
 	return res;
 };
 
-// function isOK(clientData, element){
-// 	if (element % clientData === 0){
-// 		return true;
-// 	}else{
-// 		return false;
-// 	}
-// }
+
 
