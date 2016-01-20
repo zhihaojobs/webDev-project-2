@@ -28,5 +28,6 @@
 		mins = '0' + mins;
 	}
 	res = res + hour + ":" + mins + " "+ ampm;
+	console.log(res);
 	return res;
 }
